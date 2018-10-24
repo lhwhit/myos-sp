@@ -2,12 +2,13 @@
 <html>
 <body>
 
-<video width="320" height="240" controls="controls" autoplay="autoplay">
+<video width="100%" height="100%" controls="controls" autoplay="autoplay">
 <source src="01-01.mp4" type="video/mp4" />
 </video>
 
 <?php
-echo "æ“ä½œç³»ç»Ÿè¯¾ç¨‹ä»‹ç»";
+?
+echo "²Ù×÷ÏµÍ³¿Î³Ì½éÉÜ";
 ?>
 
 </body>
